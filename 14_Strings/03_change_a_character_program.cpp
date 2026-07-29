@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    string name = "Aman";
-    cout << name;
+    string name = "arman";
+    name[0] = 'k';
+    cout << name ;
     return 0;
 }
