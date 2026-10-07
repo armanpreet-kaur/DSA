@@ -25,4 +25,4 @@ int main()
     cout <<c2.name <<" "<<c2.price<<" "<<c2.type<<endl;
 
     return 0;
-}
+} 
